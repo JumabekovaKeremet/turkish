@@ -152,7 +152,7 @@ nav ul li a:hover{
     width: 450px;
     height: 400px;
 }
-@media all and (max-width:900px){
+@media all and (max-width:400px){
    .main{
        display: flex;
        flex-direction: column;

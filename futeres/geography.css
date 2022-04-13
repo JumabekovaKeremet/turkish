@@ -87,7 +87,7 @@ nav ul li a:hover{
     height: 300px;
     border-radius: 100%;
 }
-@media all and (max-width:900px){
+@media all and (max-width:400px){
     body{
             background-position: center;
             background-size: cover;
