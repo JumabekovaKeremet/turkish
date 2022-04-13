@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+}
+.logo{
+background-image: url(/img/fuetures-1.jpg);
+background-position: center;
+background-repeat: no-repeat;
+height: 90px;
+}
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+nav ul li {
+list-style-type: none;
+margin: 10px;
+padding-top: 20px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+}
+.h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.main{
+    display: flex;
+    padding-top: 10px;
+}
+.information{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    background-image: url(/img/sofia.jpg);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-position: cover;
+    width: 450px;
+    height: 400px;
+}
+.information-2{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-2{
+    background-image: url(/img/mosque.jpg);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-position: center;
+    width: 450px;
+    height: 400px;
+    background-size: 100%;
+}
+.information-3{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-3{
+    background-image: url(/img/yerebatan.jpg);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-position: cover;
+    width: 450px;
+    height: 400px;
+    background-size: 100%;
+}
+.main-2{
+    display: flex;
+    padding-top: 10px;
+}
+.information-4{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-4{
+    background-image: url(/img/kariye.jpg);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-position: center;
+    background-size: 100%;
+    width: 450px;
+    height: 400px;
+}
+.information-5{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-5{
+    background-image: url(/img/aspendos.jpg);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-position: center;
+    width: 450px;
+    height: 400px;
+    background-size: 100%;
+}
+.information-6{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    height: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-6{
+    background-image: url(/img/city.jpg);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-position: cover;
+    width: 450px;
+    height: 400px;
+}
