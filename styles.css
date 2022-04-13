@@ -255,7 +255,7 @@ max-width: 450px;
                     max-width: 450px;
                     }
 }
-@media (max-width: 350px){
+@media (max-width: 600px){
   .information-1 p{
       width: 300px;
    }
