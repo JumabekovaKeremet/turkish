@@ -87,3 +87,19 @@ nav ul li a:hover{
     height: 300px;
     border-radius: 100%;
 }
+@media all and (max-width:900px){
+    body{
+            background-position: center;
+            background-size: cover;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+    .information{
+        max-width: 450px;
+        }
+        .information-2{
+            max-width: 450px;
+            }
+ }
