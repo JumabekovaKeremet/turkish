@@ -245,3 +245,86 @@ nav ul li a:hover{
                                                  width: 100%;
                                              }
                             }
+                            @media (min-width: 347px){
+                                .h1 h1{
+                                    font-size: 20px;
+                                }
+                                .information{
+                                    height: auto;
+                                    width: auto;
+                                    }
+                                    .information p{
+                                      max-width: 200px;
+                                      }
+                                      .information h1{
+                                          max-width: 200px;
+                                          }
+                                          .img{
+                                              width: 100%;
+                                          }
+                                .information-2{
+                                 height: auto;
+                                 width: auto;
+                                 }
+                                 .information-2 p{
+                                   max-width: 200px;
+                                   }
+                                   .information-2 h1{
+                                       max-width: 200px;
+                                       }
+                                       .img-2{
+                                        width: 100%;
+                                    }
+                                       .information-3{
+                                           height: auto;
+                                           width: auto;
+                                           }
+                                           .information-3 p{
+                                             max-width: 200px;
+                                             }
+                                             .information-3 h1{
+                                                 max-width: 200px;
+                                                 }
+                                                 .img-3{
+                                                    width: 100%;
+                                                }
+                                                 .information-4{
+                                                   height: auto;
+                                                   width: auto;
+                                                   }
+                                                   .information-4 p{
+                                                     max-width: 200px;
+                                                     }
+                                                     .information-4 h1{
+                                                         max-width: 200px;
+                                                         }
+                                                         .img-4{
+                                                            width: 100%;
+                                                        }
+                                                        .information-5{
+                                                            height: auto;
+                                                            width: auto;
+                                                            }
+                                                            .information-5 p{
+                                                              max-width: 200px;
+                                                              }
+                                                              .information-5 h1{
+                                                                  max-width: 200px;
+                                                                  }
+                                                                  .img-5{
+                                                                     width: 100%;
+                                                                 }
+                                                                 .information-6{
+                                                                    height: auto;
+                                                                    width: auto;
+                                                                    }
+                                                                    .information-6 p{
+                                                                      max-width: 200px;
+                                                                      }
+                                                                      .information-6 h1{
+                                                                          max-width: 200px;
+                                                                          }
+                                                                          .img-6{
+                                                                             width: 100%;
+                                                                         }
+                                                        }
