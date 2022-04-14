@@ -397,7 +397,7 @@ max-width: 450px;
                                                   max-width: 200px;
                                                   }
   }
-  @media (max-width: 347px){
+  @media (min-width: 347px){
     .information-1 p{
         width: 200px;
      }
@@ -416,20 +416,20 @@ max-width: 450px;
       width: auto;
       }
       .information-2 p{
-        max-width: 200px;
+        max-width: 150px;
         }
         .information-2 h1{
-            max-width: 200px;
+            max-width: 150px;
             }
             .information-3{
                 height: auto;
                 width: auto;
                 }
                 .information-3 p{
-                  max-width: 200px;
+                  max-width: 150px;
                   }
                   .information-3 h1{
-                      max-width: 200px;
+                      max-width: 150px;
                       }
                       .information-4{
                         height: auto;
