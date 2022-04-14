@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@1,200&display=swap');
 *{
     margin: 0;
+    font-family:  'Plus Jakarta Sans', sans-serif;
 }
 .logo{
 background-image: url(/img/fuetures-1.jpg);

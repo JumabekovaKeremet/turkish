@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@1,200&display=swap');
 *{
     margin: 0;
+    font-family:  'Plus Jakarta Sans', sans-serif;
 }
 .header{
     background-image: url(./img/header.jpg);
@@ -399,7 +401,7 @@ max-width: 450px;
   }
   @media (min-width: 347px){
     .information-1 p{
-        width: 200px;
+        width: 250px;
      }
      .header{
          height: auto;
@@ -414,6 +416,9 @@ max-width: 450px;
      .information-2{
       height: auto;
       width: auto;
+      display: flex;
+        flex-direction: column;
+        align-items: center;
       }
       .information-2 p{
         max-width: 150px;
@@ -424,6 +429,9 @@ max-width: 450px;
             .information-3{
                 height: auto;
                 width: auto;
+                display: flex;
+        flex-direction: column;
+        align-items: center;
                 }
                 .information-3 p{
                   max-width: 150px;
@@ -434,6 +442,9 @@ max-width: 450px;
                       .information-4{
                         height: auto;
                         width: auto;
+                        display: flex;
+        flex-direction: column;
+        align-items: center;
                         }
                         .information-4 p{
                           max-width: 200px;
@@ -461,6 +472,9 @@ max-width: 450px;
                         .information-7{
                             height: auto;
                             width: auto;
+                            display: flex;
+        flex-direction: column;
+        align-items: center;
                             }
                             .information-7 p{
                               max-width: 200px;
@@ -471,6 +485,9 @@ max-width: 450px;
                                   .information-8{
                                     height: auto;
                                     width: auto;
+                                    display: flex;
+        flex-direction: column;
+        align-items: center;
                                     }
                                     .information-8 p{
                                       max-width: 200px;
@@ -481,6 +498,9 @@ max-width: 450px;
                                           .information-9{
                                             height: auto;
                                             width: auto;
+                                            display: flex;
+        flex-direction: column;
+        align-items: center;
                                             }
                                             .information-9 p{
                                               max-width: 200px;
