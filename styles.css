@@ -255,7 +255,7 @@ max-width: 450px;
                     max-width: 450px;
                     }
 }
-@media (max-width: 600px){
+@media (max-width: 446px){
   .information-1 p{
       width: 300px;
    }
@@ -305,3 +305,95 @@ max-width: 450px;
                         max-width: 470px;
                         }
 }
+@media (max-width: 347px){
+    .information-1 p{
+        width: 200px;
+     }
+     .header{
+         height: auto;
+     }  
+     .history{ 
+         width: auto;
+         height: auto;
+     }
+     .h1{
+         font-size: 18px;
+     }
+     .information-2{
+      height: auto;
+      width: auto;
+      }
+      .information-2 p{
+        max-width: 200px;
+        }
+        .information-2 h1{
+            max-width: 200px;
+            }
+            .information-3{
+                height: auto;
+                width: auto;
+                }
+                .information-3 p{
+                  max-width: 200px;
+                  }
+                  .information-3 h1{
+                      max-width: 200px;
+                      }
+                      .information-4{
+                        height: auto;
+                        width: auto;
+                        }
+                        .information-4 p{
+                          max-width: 200px;
+                          }
+                          .information-4 h1{
+                              max-width: 200px;
+                              }
+          .information-4{
+              max-width: 480px;
+              }
+                          .climate{
+                            background-position: center;
+                            background-size: cover; 
+                            width: auto;
+                            height: auto;
+                        }
+                        .information-5 p{
+                            max-width: 200px;
+                        }
+                        .features{
+                            background-position: center;
+                            background-size: cover; 
+                            height: auto;
+                        }
+                        .information-7{
+                            height: auto;
+                            width: auto;
+                            }
+                            .information-7 p{
+                              max-width: 200px;
+                              }
+                              .information-7 h1{
+                                  font-size: 20px;
+                                  }
+                                  .information-8{
+                                    height: auto;
+                                    width: auto;
+                                    }
+                                    .information-8 p{
+                                      max-width: 200px;
+                                      }
+                                      .information-8 h1{
+                                          max-width: 200px;
+                                          }
+                                          .information-9{
+                                            height: auto;
+                                            width: auto;
+                                            }
+                                            .information-9 p{
+                                              max-width: 200px;
+                                              }
+                                              .information-9 h1{
+                                                  max-width: 200px;
+                                                  }
+  }

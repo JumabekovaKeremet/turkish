@@ -151,3 +151,51 @@ nav ul li a:hover{
                     max-width: 450px;
                     }
  }
+ @media (max-width:347px){
+    .h1{
+        font-size: 18px;
+    }
+    .information{
+        height: auto;
+        width: auto;
+        }
+        .information p{
+          max-width: 200px;
+          }
+          .information h1{
+              max-width: 200px;
+              }
+    .information-2{
+     height: auto;
+     width: auto;
+     }
+     .information-2 p{
+       max-width: 200px;
+       }
+       .information-2 h1{
+           max-width: 200px;
+           }
+           .information-3{
+               height: auto;
+               width: auto;
+               }
+               .information-3 p{
+                 max-width: 200px;
+                 }
+                 .information-3 h1{
+                     max-width: 200px;
+                     }
+                     .information-4{
+                       height: auto;
+                       width: auto;
+                       }
+                       .information-4 p{
+                         max-width: 200px;
+                         }
+                         .information-4 h1{
+                             max-width: 200px;
+                             }
+         .information-4{
+             max-width: 480px;
+             }
+ }
