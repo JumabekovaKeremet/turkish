@@ -431,6 +431,7 @@ max-width: 450px;
       display: flex;
         flex-direction: column;
         align-items: center;
+        max-width: 300px;
       }
       .information-2 p{
         max-width: 150px;
@@ -444,6 +445,7 @@ max-width: 450px;
                 display: flex;
         flex-direction: column;
         align-items: center;
+        max-width: 300px;
                 }
                 .information-3 p{
                   max-width: 150px;
@@ -457,6 +459,7 @@ max-width: 450px;
                         display: flex;
         flex-direction: column;
         align-items: center;
+        max-width: 300px;
                         }
                         .information-4 p{
                           max-width: 200px;
