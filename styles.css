@@ -201,6 +201,40 @@ text-decoration: none;
             }
             .information-9 button:hover{
                 background-color: rgba(255, 255, 255, 0.5);
+            }   
+            .footer{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin: 0 20px;
+            }
+            .footer-child{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin: 0 20px;
+            }
+            .logo-2{
+                background-image: url(/img/IMG_8712.png);
+                background-position: center;
+                background-size: 100%;
+                background-repeat: no-repeat;
+                width: 100px;
+                height: 100px;
+                border-radius: 50px ;
+            }
+            .footer a{
+                color: black;
+                text-decoration: none;
+            }
+            .qr{
+                background-image: url(/img/qrcode.svg);
+                background-position: center;
+                background-size: 100%;
+                background-repeat: no-repeat;
+                width: 100px;
+                height: 100px;
+                margin: 0 auto;
             }
 @media all and (max-width:900px){
     .header{
@@ -308,6 +342,10 @@ max-width: 450px;
                         }
 }
 @media (max-width: 347px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
     .information-1 p{
         width: 200px;
      }
@@ -400,6 +438,16 @@ max-width: 450px;
                                                   }
   }
   @media (min-width: 347px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer a{
+        color: black;
+        text-decoration: none;
+    }
+
       .table{
           display: flex;
           justify-content: center;
@@ -430,7 +478,7 @@ max-width: 450px;
       display: flex;
         flex-direction: column;
         align-items: center;
-        width: 300px;
+        width: auto;
       }
       .information-2 p{
         max-width: 150px;
@@ -522,4 +570,11 @@ max-width: 450px;
                                               .information-9 h1{
                                                   max-width: 200px;
                                                   }
+                                                  .logo-2{
+                                                  width: 100%;
+                                                }
+                                                .qr{
+                                                    width: 40%;
+                                                    height: 150px;
+                                                }
   }
