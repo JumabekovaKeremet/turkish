@@ -248,4 +248,10 @@ nav ul li a:hover{
          .information-4{
              max-width: 480px;
              }
+             .main{
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                align-items: center;
+            }
  }
